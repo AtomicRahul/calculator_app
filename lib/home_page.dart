@@ -71,7 +71,7 @@ class _HomepageState extends State<Homepage> {
                 keyboardType: TextInputType.number,
                 decoration: InputDecoration(
                     hintText: "Enter Your percentage",
-                    labelText: "Percentage",
+                    labelText: " Enter Percentage",
                     border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(8))),
                 controller: t2,
